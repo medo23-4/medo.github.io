@@ -1,0 +1,42 @@
+
+
+Package: com.bandarhl.BHTwitter
+Name: BHTwitter
+Version: 4.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 14.0), mobilesubstrate, ws.hbang.common (>= 1.17)
+Filename: ./debs/com.bandarhl.BHTwitter_4.0_iphoneos-arm 3.deb
+Size: 1145380
+MD5sum: f89496a52e910719a90b80fb0b265a75
+SHA1: e26d1410ba8e2ecc42ccc392f7ee9ca9b0163480
+SHA256: bb11fe055793bb4813e829584d6e79ec5bc72aba16a89deb9b4775a0ac2dbdb1
+Section: Tweaks
+Description: Awesome tweak for Twitter
+Author: BandarHelal
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 1119
+
+
+
+
+Package: com.bandarhl.BHTwitter
+Name: BHTwitter
+Version: 4.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 14.0), mobilesubstrate, ws.hbang.common (>= 1.17)
+Filename: ./debs/com.bandarhl.BHTwitter_4.0_iphoneos-arm 3.deb
+Size: 1145380
+MD5sum: f89496a52e910719a90b80fb0b265a75
+SHA1: e26d1410ba8e2ecc42ccc392f7ee9ca9b0163480
+SHA256: bb11fe055793bb4813e829584d6e79ec5bc72aba16a89deb9b4775a0ac2dbdb1
+Section: Tweaks
+Description: Awesome tweak for Twitter
+Author: BandarHelal
+Depiction: 
+SileoDepiction: 
+Icon: https://tools4cydia.info/images/اضف مسار ايقونة.png
+Installed-size: 1119
+
+
